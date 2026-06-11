@@ -1,0 +1,25 @@
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 30px;
+}
+.hero-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.hero-section{
+    background-color: #eaeef1;
+}
+.navbar img{
+    width: 50px;
+}
+.class-section{
+    display: flex;
+    flex-direction:row;
+    justify-content:center;
+    padding: 40px;
+}
